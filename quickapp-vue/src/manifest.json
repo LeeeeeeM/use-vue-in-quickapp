@@ -14,7 +14,7 @@
     { "origin": "*" }
   ],
   "config": {
-    "logLevel": "off",
+    "logLevel": "log",
     "dsl": {
       "name": "vue"
     }
